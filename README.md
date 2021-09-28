@@ -24,7 +24,7 @@ TestUserModel Request
     <TestUserModel xmlns="http://tempuri.org/">
     <model>
        <Id>3</Id>
-       <Name>sdfsdfsdf</Name>
+       <Name>UserName</Name>
     </model>
     </TestUserModel>
   </soap:Body>
